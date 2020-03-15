@@ -1,0 +1,22 @@
+{
+  "name": "gsn-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/network": "^0.4.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.7.1",
+    "@openzeppelin/contracts-ethereum-package": "^2.4.0",
+    "@openzeppelin/gsn-helpers": "^0.2.3",
+    "@openzeppelin/upgrades": "^2.7.1",
+    "ganache-cli": "^6.9.1"
+  }
+}
